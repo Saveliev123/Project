@@ -2,7 +2,7 @@
 
 Мой проект
 
-## Available Scripts
+## Счётчик
 
 In the project directory, you can run:
 
